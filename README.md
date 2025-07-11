@@ -1,5 +1,6 @@
 # DIESGD
-This repository contains the source code of DIESGD optimizer from our paper: Double-Integration-Enhanced Sochastic Gradient Descent Based on Neural Dynamics for Improving Generalization
+This repository contains the source code of DIESGD optimizer from our paper: Double-Integration-Enhanced Sochastic Gradient Descent Based on Neural Dynamics for Improving Generalization.
+
 The core optimizer implementation code is placed under the directory "/optimizers".
 
 ## A quick look at the algorithm
