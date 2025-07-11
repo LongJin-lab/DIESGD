@@ -17,6 +17,4 @@ Change the optimizer as
 
 `optimizer = DIESGD(model.parameters(), lr=0.01, lambda_1=1.0, lambda_2=1.0, gamma=1.0)`
 
-And in you training code, use `optim.step(step=step)` instead of `optim.step()`
-
 Run your code.
