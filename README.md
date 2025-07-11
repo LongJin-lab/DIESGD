@@ -4,7 +4,7 @@ The core optimizer implementation code is placed under the directory "/optimizer
 
 ## A quick look at the algorithm
 
-![LMAdamOptimizer](LMAdamOptimizer.png)
+![DIESGDOptimizer](DIESGDOptimizer.png)
 
 ## Useage in PyTorch
 
